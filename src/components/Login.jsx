@@ -91,7 +91,7 @@ function Login() {
             <p className="mt-2 text-center text-sm text-gray-600">
               Don't have an account?{" "}
               <Link
-                to="/signup"
+                to="/"
                 className="font-semibold text-blue-800 transition-all duration-200 hover:underline"
               >
                 Create a free account
